@@ -71,3 +71,29 @@ __* 매크로 반복__
 > 
 > (반복횟수)@{문자} : 반복횟수만크 매크로 재실행
 
+
+
+
+
+##### 출처 및 참고자료
+[top 명령어](https://sabarada.tistory.com/146)
+[top 명령어](https://ironmask84.tistory.com/355)
+[top 명령어](https://dany-it.tistory.com/348)
+[top 명령어](https://cheershennah.tistory.com/172)
+[top 명령어](https://zzsza.github.io/development/2018/07/18/linux-top/)
+[ps 명령어](https://jhnyang.tistory.com/268)
+[ps 명령어](https://newstars.cloud/468)
+[ps 명령어](https://arer.tistory.com/150)
+[ps 명령어](https://tigris-data-science.tistory.com/entry/Linux-ps-%EB%AA%85%EB%A0%B9%EC%96%B4)
+[jobs 명령어](https://hbase.tistory.com/265)
+[jobs 명령어](https://shaeod.tistory.com/968)
+[jobs 명령어](https://starrykss.tistory.com/1694)
+[kill 명령어](https://velog.io/@ogu1208/Linux-kill-%EB%AA%85%EB%A0%B9%EC%96%B4)
+[kill 명령어](https://bigsun84.tistory.com/355)
+[kill 명령어](https://121202.tistory.com/45)
+[vim macro](https://jmoon.co.kr/38)
+[vim macro](https://coldmater.tistory.com/226)
+[vim macro](https://stdout.tistory.com/46)
+[vim macro](https://booolean.tistory.com/849)
+[vim macro](https://tzara.tistory.com/150)
+[vim macro](https://clem.tistory.com/29)
